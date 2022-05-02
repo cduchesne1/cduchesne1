@@ -1,5 +1,7 @@
 
 ![github_banner](https://user-images.githubusercontent.com/58085585/166309526-a8cc7440-86b1-44b8-bf92-1b0e2d6de1e6.png)
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/cduchesne-1/)
 
 Hi there,
