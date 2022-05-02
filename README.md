@@ -60,7 +60,5 @@ You can learn more about my projects by [checking out my portfolio](https://cduc
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 
-<br>
-<br>
-<br>
-This README was inspired by the one built by [Braydon Coyer](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1).
+
+This README was inspired by the one built by [Braydon Coyer](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1/).
