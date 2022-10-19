@@ -12,7 +12,7 @@ You can learn more about my projects by [checking out my portfolio](https://cduc
 
 ## More about me
 - 🎓Diploma of College Studies (DSC) in Computer Science and Mathematics from Cégep Limoilou
-- 🎓Second-year software engineering student at Laval University
+- 🎓Third-year software engineering student at Laval University
 
 ## 💼 My Skills
 ### Languages
