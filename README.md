@@ -6,13 +6,13 @@
 
 Hi there,
 
-I'm Christophe, a software engineering student who's passionate about learning and perfecting its craft. I am mostly interested by full stack development, cloud architecture and distributed systems. I am also a car enthusiast, a drummer and a YouTuber in my free time.
+I'm Christophe, a software engineering graduate who's passionate about learning and perfecting its craft. I am mostly interested by fullstack development, cloud architecture and distributed systems. I am also a car enthusiast, a drummer and a YouTuber in my free time.
 
 You can learn more about my projects by [checking out my portfolio](https://cduchesne1.github.io/).
 
 ## More about me
 - 🎓Diploma of College Studies (DSC) in Computer Science and Mathematics from Cégep Limoilou
-- 🎓Third-year software engineering student at Laval University
+- 🎓Software Engineering graduate from Laval University
 
 ## 💼 My Skills
 ### Languages
